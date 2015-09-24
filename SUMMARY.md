@@ -1,5 +1,4 @@
 # Summary
 
 * [Ruby](七周七语言/ruby.md)
-* [七周七语言](seven_languages_in_seven_weeks.md)
 
