@@ -5,6 +5,6 @@
    * [Ruby](七周七语言/Ruby/README.md)
        * [第一天](七周七语言/Ruby/第一天.md)
        * [第二天](七周七语言/Ruby/第二天.md)
-   * Io
+   * [Io](七周七语言/Io/README.md)
        * [第一天](七周七语言/Io/第一天.md)
 
