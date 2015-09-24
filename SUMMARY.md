@@ -1,4 +1,4 @@
 # Summary
 
-* [Seven Languages in Seven Weeks](seven_languages_in_seven_weeks.md)
+* [七周七语言](seven_languages_in_seven_weeks.md)
 
