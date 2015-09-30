@@ -1,10 +1,10 @@
 # Summary
 
 * [简介](README.md)
-* [七周七语言](七周七语言/README.md)
-   * [Ruby](七周七语言/Ruby/README.md)
-       * [第一天](七周七语言/Ruby/第一天.md)
-       * [第二天](七周七语言/Ruby/第二天.md)
-   * [Io](七周七语言/Io/README.md)
-       * [第一天](七周七语言/Io/第一天.md)
+* [七周七语言](Seven Languages in Seven Weeks/README.md)
+   * [Ruby](Seven Languages in Seven Weeks/Ruby/README.md)
+       * [第一天](Seven Languages in Seven Weeks/Ruby/1.md)
+       * [第二天](Seven Languages in Seven Weeks/Ruby/2.md)
+   * [Io](Seven Languages in Seven Weeks/Io/README.md)
+       * [第一天](Seven Languages in Seven Weeks/Io/1.md)
 
